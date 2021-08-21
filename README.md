@@ -11,6 +11,6 @@
 - ⚡ Fun fact: I love to watch Game of thrones over and over again
 -->
 
-![Ravidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaviduShehan&show_icons=true&theme=radical)
+![Ravidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaviduShehan&show_icons=true&theme=prussian)
 
 
