@@ -10,5 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to watch Game of thrones over and over again
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaviduShehan)](https://github.com/RaviduShehan/github-readme-stats)
+
+![Ravidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaviduShehan&show_icons=true&theme=radical)
+
 
