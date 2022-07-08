@@ -1,7 +1,7 @@
 ### Hi there, I'm Ravidu 👋
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working at IFS R&D International (PVT) Ltd
 - 🌱 I’m currently learning Springboot
 - 👯 I’m looking to collaborate on medium
 - 🤔 I’m looking for help with ...
