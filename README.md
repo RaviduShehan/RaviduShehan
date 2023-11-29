@@ -4,10 +4,8 @@
 - 🔭 I’m currently working at Creative Software (PVT) Ltd
 - 🌱 I’m currently learning Springboot
 - 👯 I’m looking to collaborate on medium
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything related to Java
+- 💬 Ask me about anything related to Python, Java
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ravidu-perera-b39522165/) [Facebook](https://www.facebook.com/ravindu.shehan1/) [Medium](https://medium.com/@raviduperera)
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love to watch Game of thrones over and over again
 -->
 
