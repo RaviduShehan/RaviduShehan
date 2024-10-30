@@ -8,9 +8,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ravidu-perera-b39522165/) [Facebook](https://www.facebook.com/ravindu.shehan1/) [Medium](https://medium.com/@raviduperera)
 - ⚡ Fun fact: I love to watch Game of thrones over and over again
 -->
-
-![Ravidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaviduShehan&show_icons=true&theme=prussian)
-
-[![Ravidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaviduShehan)](https://github.com/RaviduShehan/github-readme-stats)
+[![Ravidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaviduShehan&show_icons=true&theme=prussian)](https://github.com/RaviduShehan/github-readme-stats)
 
 
