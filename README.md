@@ -11,4 +11,6 @@
 
 ![Ravidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaviduShehan&show_icons=true&theme=prussian)
 
+[![Ravidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/RaviduShehan/github-readme-stats)
+
 
